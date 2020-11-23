@@ -1,13 +1,12 @@
-# ██ [ File-types                 ] ██
-*
-!*.md
+# ██ [ Root directories           ] ██
+build/*
 
-# ██ [ Root Directories           ] ██
-World
-World_the_end
+# ██ [ Untracekd scripts          ] ██
+scripts/untracked.dsc
 
-!Scripts
-!Scripts/*
+# ██ [ Untracekd script data      ] ██
+data/tokens.yml
+data/packages.yml
 
 # ██ [ File-types                 ] ██
 *.old
@@ -15,5 +14,4 @@ World_the_end
 
 # ██ [ Executables                ] ██
 *.exe
-*.sh
 *.jar

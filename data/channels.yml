@@ -1,0 +1,462 @@
+BehrCraft:
+  '525463795309740032':
+    name: 📋player-reports
+    position: '39'
+    channel_type: GUILD_TEXT
+  '537353144594595851':
+    name: 📋staff-help
+    position: '37'
+    channel_type: GUILD_TEXT
+  '680534973043965981':
+    name: 📘change-log
+    position: '2'
+    channel_type: GUILD_TEXT
+  '489040966510968835':
+    name: 🌎deep-thoughts
+    position: '42'
+    channel_type: GUILD_TEXT
+  '481711026962694150':
+    name: 🎤 voice
+    position: '9'
+    channel_type: GUILD_VOICE
+  '680549353538191444':
+    name: 🎨𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭s
+    position: '28'
+    channel_type: GUILD_TEXT
+  '680549425177034798':
+    name: 🔨constructor
+    position: '16'
+    channel_type: GUILD_TEXT
+  '482938388295712768':
+    name: 👮staff-chat
+    position: '19'
+    channel_type: GUILD_TEXT
+  '680532515131359335':
+    name: ── 📜 Developmental 🎨 ───
+    position: '15'
+    channel_type: GUILD_CATEGORY
+  '598353341709549571':
+    name: 📋server-rules
+    position: '29'
+    channel_type: GUILD_TEXT
+  '680532672497713247':
+    name: ────🔑Moderation 🔑────
+    position: '18'
+    channel_type: GUILD_CATEGORY
+  '482725135787360266':
+    name: 🌎discussions
+    position: '41'
+    channel_type: GUILD_TEXT
+  '610249597293690891':
+    name: 🔨builder vc
+    position: '44'
+    channel_type: GUILD_VOICE
+  '680537167944089751':
+    name: 🏆minecraft
+    position: '13'
+    channel_type: GUILD_TEXT
+  '561703998806163476':
+    name: 🐈our-god
+    position: '34'
+    channel_type: GUILD_TEXT
+  '680532454985171042':
+    name: ───── 🌎 General 🌍 ──────
+    position: '3'
+    channel_type: GUILD_CATEGORY
+  '680549061534810118':
+    name: 🌐𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧
+    position: '27'
+    channel_type: GUILD_TEXT
+  '489401667239018507':
+    name: 📋announcements
+    position: '33'
+    channel_type: GUILD_TEXT
+  '695071449425379388':
+    name: 🔉staff-vc-chat
+    position: '21'
+    channel_type: GUILD_TEXT
+  '560503165452288010':
+    name: 🔧data
+    position: '20'
+    channel_type: GUILD_TEXT
+  '773728812215173170':
+    name: 📕action-log
+    position: '25'
+    channel_type: GUILD_TEXT
+  '593541451414110215':
+    name: 🔨player-commands
+    position: '32'
+    channel_type: GUILD_TEXT
+  '680858496555548684':
+    name: Archives Again
+    position: '26'
+    channel_type: GUILD_CATEGORY
+  '680532712955969575':
+    name: ── 🔒 Archives 🔒 ───
+    position: '23'
+    channel_type: GUILD_CATEGORY
+  '680534660178247691':
+    name: 📙news-log
+    position: '1'
+    channel_type: GUILD_TEXT
+  '609103657044148236':
+    name: 🎤 staff vc
+    position: '43'
+    channel_type: GUILD_VOICE
+  '481711026962694148':
+    name: 🌎quiet-text
+    position: '4'
+    channel_type: GUILD_TEXT
+  '519612225854504962':
+    name: 🎤voice-but-words
+    topic: intended for those who can’t speak in voice channel but still want to chat
+    position: '8'
+    channel_type: GUILD_TEXT
+  '773943165036003398':
+    name: 🎭gielinor-previews
+    position: '12'
+    channel_type: GUILD_TEXT
+  '489290322874990612':
+    name: 🔇afk
+    position: '10'
+    channel_type: GUILD_VOICE
+  '491475683982311434':
+    name: 💖memes
+    position: '6'
+    channel_type: GUILD_TEXT
+  '680534182350422018':
+    name: 📕information
+    position: '0'
+    channel_type: GUILD_TEXT
+  '693973491279593473':
+    name: 🔊staff-voice
+    position: '22'
+    channel_type: GUILD_VOICE
+  '593523276190580736':
+    name: 🌐loud-text
+    position: '5'
+    channel_type: GUILD_TEXT
+  '593863155449331735':
+    name: 📋change-log
+    topic: Any changed made to the server will be posted here.
+    position: '31'
+    channel_type: GUILD_TEXT
+  '680549401273565354':
+    name: 📰developer
+    position: '17'
+    channel_type: GUILD_TEXT
+  '514373206757343243':
+    name: 👑donators
+    topic: This page is for donors on the server to chat and talk about what you like,
+      and would like to possibly see on the server in the future!
+    position: '38'
+    channel_type: GUILD_TEXT
+  '680574209776287781':
+    name: 💰𝓢𝓱𝓸𝔀-𝔂𝓮-𝓐𝓻𝓽
+    position: '14'
+    channel_type: GUILD_TEXT
+  '680532571775303682':
+    name: ─📌 Game Info & Showcase 📌
+    position: '11'
+    channel_type: GUILD_CATEGORY
+  '482571980768542730':
+    name: 📋banditcraft-info
+    position: '30'
+    channel_type: GUILD_TEXT
+  '680569021569302548':
+    name: 📗commit-log
+    position: '24'
+    channel_type: GUILD_TEXT
+  '481720715746213888':
+    name: 🎊welcome
+    position: '35'
+    channel_type: GUILD_TEXT
+  '488921873908760576':
+    name: 🤖bot-commands
+    position: '7'
+    channel_type: GUILD_TEXT
+  '598174815924256809':
+    name: 🤖oldbotstuff
+    topic: if u wanna play music n shit
+    position: '36'
+    channel_type: GUILD_TEXT
+  '610248012815400960':
+    name: 🔨builder-exclusive
+    position: '40'
+    channel_type: GUILD_TEXT
+channels:
+  '525463795309740032':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📋player-reports
+    position: '39'
+    channel_type: GUILD_TEXT
+  '537353144594595851':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📋staff-help
+    position: '37'
+    channel_type: GUILD_TEXT
+  '680534973043965981':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📘change-log
+    position: '2'
+    channel_type: GUILD_TEXT
+  '489040966510968835':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🌎deep-thoughts
+    position: '42'
+    channel_type: GUILD_TEXT
+  '481711026962694150':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🎤 voice
+    position: '9'
+    channel_type: GUILD_VOICE
+  '680549353538191444':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🎨𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭s
+    position: '28'
+    channel_type: GUILD_TEXT
+  '680549425177034798':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🔨constructor
+    position: '16'
+    channel_type: GUILD_TEXT
+  '482938388295712768':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 👮staff-chat
+    position: '19'
+    channel_type: GUILD_TEXT
+  '680532515131359335':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: ── 📜 Developmental 🎨 ───
+    position: '15'
+    channel_type: GUILD_CATEGORY
+  '598353341709549571':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📋server-rules
+    position: '29'
+    channel_type: GUILD_TEXT
+  '680532672497713247':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: ────🔑Moderation 🔑────
+    position: '18'
+    channel_type: GUILD_CATEGORY
+  '482725135787360266':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🌎discussions
+    position: '41'
+    channel_type: GUILD_TEXT
+  '610249597293690891':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🔨builder vc
+    position: '44'
+    channel_type: GUILD_VOICE
+  '680537167944089751':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🏆minecraft
+    position: '13'
+    channel_type: GUILD_TEXT
+  '561703998806163476':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🐈our-god
+    position: '34'
+    channel_type: GUILD_TEXT
+  '680532454985171042':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: ───── 🌎 General 🌍 ──────
+    position: '3'
+    channel_type: GUILD_CATEGORY
+  '680549061534810118':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🌐𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧
+    position: '27'
+    channel_type: GUILD_TEXT
+  '489401667239018507':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📋announcements
+    position: '33'
+    channel_type: GUILD_TEXT
+  '695071449425379388':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🔉staff-vc-chat
+    position: '21'
+    channel_type: GUILD_TEXT
+  '560503165452288010':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🔧data
+    position: '20'
+    channel_type: GUILD_TEXT
+  '773728812215173170':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📕action-log
+    position: '25'
+    channel_type: GUILD_TEXT
+  '593541451414110215':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🔨player-commands
+    position: '32'
+    channel_type: GUILD_TEXT
+  '680858496555548684':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: Archives Again
+    position: '26'
+    channel_type: GUILD_CATEGORY
+  '680532712955969575':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: ── 🔒 Archives 🔒 ───
+    position: '23'
+    channel_type: GUILD_CATEGORY
+  '680534660178247691':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📙news-log
+    position: '1'
+    channel_type: GUILD_TEXT
+  '609103657044148236':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🎤 staff vc
+    position: '43'
+    channel_type: GUILD_VOICE
+  '481711026962694148':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🌎quiet-text
+    position: '4'
+    channel_type: GUILD_TEXT
+  '519612225854504962':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🎤voice-but-words
+    topic: intended for those who can’t speak in voice channel but still want to chat
+    position: '8'
+    channel_type: GUILD_TEXT
+  '773943165036003398':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🎭gielinor-previews
+    position: '12'
+    channel_type: GUILD_TEXT
+  '489290322874990612':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🔇afk
+    position: '10'
+    channel_type: GUILD_VOICE
+  '491475683982311434':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 💖memes
+    position: '6'
+    channel_type: GUILD_TEXT
+  '680534182350422018':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📕information
+    position: '0'
+    channel_type: GUILD_TEXT
+  '693973491279593473':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🔊staff-voice
+    position: '22'
+    channel_type: GUILD_VOICE
+  '593523276190580736':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🌐loud-text
+    position: '5'
+    channel_type: GUILD_TEXT
+  '593863155449331735':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📋change-log
+    topic: Any changed made to the server will be posted here.
+    position: '31'
+    channel_type: GUILD_TEXT
+  '680549401273565354':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📰developer
+    position: '17'
+    channel_type: GUILD_TEXT
+  '514373206757343243':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 👑donators
+    topic: This page is for donors on the server to chat and talk about what you like,
+      and would like to possibly see on the server in the future!
+    position: '38'
+    channel_type: GUILD_TEXT
+  '680574209776287781':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 💰𝓢𝓱𝓸𝔀-𝔂𝓮-𝓐𝓻𝓽
+    position: '14'
+    channel_type: GUILD_TEXT
+  '680532571775303682':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: ─📌 Game Info & Showcase 📌
+    position: '11'
+    channel_type: GUILD_CATEGORY
+  '482571980768542730':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📋banditcraft-info
+    position: '30'
+    channel_type: GUILD_TEXT
+  '680569021569302548':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 📗commit-log
+    position: '24'
+    channel_type: GUILD_TEXT
+  '481720715746213888':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🎊welcome
+    position: '35'
+    channel_type: GUILD_TEXT
+  '488921873908760576':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🤖bot-commands
+    position: '7'
+    channel_type: GUILD_TEXT
+  '598174815924256809':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🤖oldbotstuff
+    topic: if u wanna play music n shit
+    position: '36'
+    channel_type: GUILD_TEXT
+  '610248012815400960':
+    group_id: '481711026962694146'
+    group_name: BehrCraft
+    name: 🔨builder-exclusive
+    position: '40'
+    channel_type: GUILD_TEXT

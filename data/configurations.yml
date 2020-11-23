@@ -1,0 +1,12 @@
+configurations:
+  configurations: data/configurations.yml
+  packages: data/packages.yml
+  saved_headers: data/saved_headers.yml
+  discord_channels: data/channels.yml
+  tokens: data/tokens.yml
+
+hosts:
+  the_network: http://76.119.243.194:25580/
+
+groups:
+  BehrCraft: 481711026962694146

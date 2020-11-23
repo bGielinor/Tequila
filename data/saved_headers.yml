@@ -1,0 +1,18 @@
+Champagne:
+  Post_Office:
+    User-Agent: Champagne
+    Content-Type: application/json
+
+Discord:
+  Webhook_Message:
+    User-Agent: Champagne
+    Content-Type: application/json
+  Bot_Auth:
+    User-Agent: Champagne
+    Authorization: Bot <yaml[tokens].read[discord.bot]>
+    Content-Type: application/json
+  
+GitHub:
+  Get_Requests:
+    User-Agent: Champagne
+    Authorization: token <yaml[tokens].read[github.application]>
