@@ -9,4 +9,9 @@ hosts:
   the_network: http://76.119.243.194:25580/
 
 groups:
-  BehrCraft: 481711026962694146
+  481711026962694146: BehrCraft
+  785037888387678231: BakedUpCrafts
+
+join_channels:
+  BehrCraft: 773728812215173170
+  BakedUpCrafts: 785038562512207912

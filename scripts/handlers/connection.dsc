@@ -7,7 +7,7 @@ connection_handler:
       - wait 13s
       - ~discord id:bot connect code:<yaml[tokens].read[discord.bot]>
       - wait 3s
-      - ~run channel_cache
+    #^- ~run channel_cache
 
     on shutdown:
       - discord id:bot disconnect

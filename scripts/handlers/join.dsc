@@ -6,4 +6,4 @@ user_joins:
       - if <[author]> == invalid:
         - stop
 
-      - run user_join_announcement def:<[author]>
+      - run user_join_announcement def:<[author].id>|<context.group.id>
